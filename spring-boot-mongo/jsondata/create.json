@@ -1,0 +1,7 @@
+{
+	"name":"jackson",
+	"studentNumber":23,
+	"email":"jackson@gmail.com",
+	"courseList":["English", "Math"],
+	"gpa":3.58
+}
